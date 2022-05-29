@@ -1,5 +1,5 @@
 # NeedBlood
-Blood Donation website using node js for Hackathon
+Blood Donation website using node js for Minor Project
 
 Things that need to preinstalled on a local system :- 
 
